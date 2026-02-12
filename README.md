@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying computer science at the university. I'm python developer (machine learning, data science, ...). I'm programming in C language and I'm Web developer and trying to learn code applications for windows and android in the future.
+I am a Computer Science student specializing in Python development, with a core focus on Machine Learning and Data Science. I have a strong foundation in C programming and Web Development, and I am currently expanding my expertise toward cross-platform application development for Windows and Android.
 
 
 ## 🌐 Socials:
